@@ -1,4 +1,4 @@
-# C
+//fishing or basking
 #include <stdio.h>
 int main()
 {int y=0,m=0,d=0,i=0,j=0,a=0,sum1=0,sum2=0,sum=0,b[13],k=0,c=0;
